@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab4;
+import lotr.Character;
 
 public class GameManager {
 

@@ -1,6 +1,6 @@
-package ua.edu.ucu.apps.lab4.Strategy;
+package Strategy;
 
-import ua.edu.ucu.apps.lab4.Character;
+import lotr.Character;
 
 public class HobbitKickStrategy extends KickStrategy {
     public HobbitKickStrategy() {

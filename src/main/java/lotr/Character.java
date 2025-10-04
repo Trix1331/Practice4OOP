@@ -18,11 +18,12 @@
 // }
 
 // Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
-package ua.edu.ucu.apps.lab4;
+package lotr;
 
 import lombok.Generated;
-import ua.edu.ucu.apps.lab4.Strategy.KickStrategy;
+import Strategy.KickStrategy;
 
+@AllArgsConstructor
 public abstract class Character {
    private int power;
    private int hp;

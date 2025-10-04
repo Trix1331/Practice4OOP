@@ -1,5 +1,3 @@
-package ua.edu.ucu.apps.lab4;
-
 // import java.util.Random;
 
 // public class Noble extends Character{
@@ -12,6 +10,8 @@ package ua.edu.ucu.apps.lab4;
 //     }
 
 // }
+
+package lotr;
 
 import java.util.Random;
 import ua.edu.ucu.apps.lab4.Strategy.NobleStrategy;

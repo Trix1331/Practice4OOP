@@ -1,6 +1,6 @@
-package ua.edu.ucu.apps.lab4.Strategy;
+package kickstrategy;
 
-import ua.edu.ucu.apps.lab4.Character;
+import lotr.Character;
 
 public abstract class KickStrategy {
    public KickStrategy() {

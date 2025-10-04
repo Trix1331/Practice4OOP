@@ -1,8 +1,6 @@
-package ua.edu.ucu.apps.lab4.Strategy;
+package kickstrategy;
 
-import java.util.Random;
-
-import ua.edu.ucu.apps.lab4.Character;
+import lotr.Character;
 
 public class NobleStrategy extends KickStrategy {
    private static final Random RANDOM = new Random();

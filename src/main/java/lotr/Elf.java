@@ -11,9 +11,7 @@
 //         character.setHp(character.getHp() - this.getPower());
 //     }
 // }
-
-
-package ua.edu.ucu.apps.lab4;
+package lotr;
 
 import ua.edu.ucu.apps.lab4.Strategy.ElfKickStrategy;
 

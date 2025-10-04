@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab4;
+package lotr;
 
 public class King extends Noble {
 
