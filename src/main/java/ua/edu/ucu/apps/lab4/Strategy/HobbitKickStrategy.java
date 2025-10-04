@@ -1,0 +1,13 @@
+package ua.edu.ucu.apps.lab4.Strategy;
+
+import ua.edu.ucu.apps.lab4.Character;
+
+public class HobbitKickStrategy extends KickStrategy {
+    public HobbitKickStrategy() {
+    }
+
+        public void kick(Character main, Character enemy) {
+            System.out.println("Cry a lot!");
+        }
+        
+}
